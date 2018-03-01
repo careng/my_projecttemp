@@ -9,3 +9,4 @@ Created on Thu Mar  1 10:02:53 2018
 import pandas as pd
 oceania = pd.read_csv('data/gapminder_gdp_oceania.csv')
 
+#working with oceania data
